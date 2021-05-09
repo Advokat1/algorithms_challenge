@@ -14,5 +14,5 @@
 
 | Номер по счету               | Условие  | Решение | Язык реализации |
 | --------------------- | ------------- | --------- | --------- |
-|           1           |       [Problem](https://leetcode.com/problems/count-items-matching-a-rule/)        |     count_items_matching_rule.py      |     python      |
+|           1           |       [Problem](https://leetcode.com/problems/count-items-matching-a-rule/)        |     [файл решения](https://github.com/Advokat1/algorithms_challenge/blob/main/algorithms/Python/count_items_matching_rule.py)      |     python      |
 |                       |               |           |                 |
