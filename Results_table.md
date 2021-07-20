@@ -16,3 +16,5 @@
 | --------------------- | ------------- | --------- | --------- |
 |           1           |       [Problem](https://leetcode.com/problems/count-items-matching-a-rule/)        |     [файл решения](https://github.com/Advokat1/algorithms_challenge/blob/main/algorithms/Python/count_items_matching_rule.py)      |     python      |
 |                       |               |           |                 |
+|           2           |       [Problem](https://leetcode.com/problems/baseball-game/)        |     [файл решения](https://github.com/Advokat1/algorithms_challenge/blob/main/algorithms/Python/baseball_game.py)      |     python      |
+|                       |               |           |                 |
