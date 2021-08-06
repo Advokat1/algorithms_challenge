@@ -8,7 +8,7 @@
 
 Начало челенджа:    07.05.2021
 
-Задач суммарно выполнено: 1
+Задач суммарно выполнено: 3
 
 -----
 
@@ -18,3 +18,4 @@
 |                       |               |           |                 |
 |           2           |       [Problem](https://leetcode.com/problems/baseball-game/)        |     [файл решения](https://github.com/Advokat1/algorithms_challenge/blob/main/algorithms/Python/baseball_game.py)      |     python      |
 |                       |               |           |                 |
+|           3           |       [Problem](https://leetcode.com/problems/flipping-an-image/)        |     [файл решения](https://github.com/Advokat1/algorithms_challenge/blob/main/algorithms/Python/flipping_image.py)      |     python      |  
