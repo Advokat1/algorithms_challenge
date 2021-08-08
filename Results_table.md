@@ -8,7 +8,7 @@
 
 Начало челенджа:    07.05.2021
 
-Задач суммарно выполнено: 3
+Задач суммарно выполнено: 4
 
 -----
 
@@ -19,3 +19,4 @@
 |           2           |       [Problem](https://leetcode.com/problems/baseball-game/)        |     [файл решения](https://github.com/Advokat1/algorithms_challenge/blob/main/algorithms/Python/baseball_game.py)      |     python      |
 |                       |               |           |                 |
 |           3           |       [Problem](https://leetcode.com/problems/flipping-an-image/)        |     [файл решения](https://github.com/Advokat1/algorithms_challenge/blob/main/algorithms/Python/flipping_image.py)      |     python      |  
+|           4           |       [Problem](https://leetcode.com/problems/defanging-an-ip-address/)        |     [файл решения](https://github.com/Advokat1/algorithms_challenge/blob/main/algorithms/Python/defanging_ip_address.py)      |     python      |  
