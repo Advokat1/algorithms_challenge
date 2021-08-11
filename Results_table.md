@@ -8,7 +8,7 @@
 
 Начало челенджа:    07.05.2021
 
-Задач суммарно выполнено: 6
+Задач суммарно выполнено: 7
 
 -----
 
@@ -22,3 +22,4 @@
 |           4           |       [Problem](https://leetcode.com/problems/defanging-an-ip-address/)        |     [файл решения](https://github.com/Advokat1/algorithms_challenge/blob/main/algorithms/Python/defanging_ip_address.py)      |     python      |  
 |           5           |       [Problem](https://leetcode.com/problems/jewels-and-stones/)        |     [файл решения](https://github.com/Advokat1/algorithms_challenge/blob/main/algorithms/Python/jewels_stones.py)      |     python      |
 |           6           |       [Problem](https://leetcode.com/problems/determine-if-string-halves-are-alike/)        |     [файл решения](https://github.com/Advokat1/algorithms_challenge/blob/main/algorithms/Python/alike_strings.py)      |     python      |
+|           7           |       [Problem](https://leetcode.com/problems/rank-transform-of-an-array/submissions/)        |     [файл решения](https://github.com/Advokat1/algorithms_challenge/blob/main/algorithms/Python/rank_transform_array.py)      |     python      |
