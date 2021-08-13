@@ -8,7 +8,7 @@
 
 Начало челенджа:    07.05.2021
 
-Задач суммарно выполнено: 7
+Задач суммарно выполнено: 9
 
 -----
 
@@ -24,3 +24,4 @@
 |           6           |       [Problem](https://leetcode.com/problems/determine-if-string-halves-are-alike/)        |     [файл решения](https://github.com/Advokat1/algorithms_challenge/blob/main/algorithms/Python/alike_strings.py)      |     python      |
 |           7           |       [Problem](https://leetcode.com/problems/rank-transform-of-an-array/submissions/)        |     [файл решения](https://github.com/Advokat1/algorithms_challenge/blob/main/algorithms/Python/rank_transform_array.py)      |     python      |
 |           8           |       [Problem](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)        |     [файл решения](https://github.com/Advokat1/algorithms_challenge/blob/main/algorithms/Python/convert_binary_number.py)      |     python      |
+|           9           |       [Problem](https://leetcode.com/problems/valid-anagram/submissions/)        |     [файл решения](https://github.com/Advokat1/algorithms_challenge/blob/main/algorithms/Python/valid_anagram.py)      |     python      |
