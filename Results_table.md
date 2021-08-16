@@ -8,7 +8,7 @@
 
 Начало челенджа:    07.05.2021
 
-Задач суммарно выполнено: 11
+Задач суммарно выполнено: 12
 
 -----
 
@@ -27,3 +27,4 @@
 |           9           |       [Problem](https://leetcode.com/problems/valid-anagram/submissions/)        |     [файл решения](https://github.com/Advokat1/algorithms_challenge/blob/main/algorithms/Python/valid_anagram.py)      |     python      |
 |           10           |       [Problem](https://leetcode.com/problems/majority-element/)        |     [файл решения](https://github.com/Advokat1/algorithms_challenge/blob/main/algorithms/Python/majority_element.py)      |     python      |
 |           11           |       [Problem](https://leetcode.com/problems/reverse-only-letters/)        |     [файл решения](https://github.com/Advokat1/algorithms_challenge/blob/main/algorithms/Python/reverse_only_letters.py)      |     python      |
+|           12           |       [Problem](https://leetcode.com/problems/binary-gap/)        |     [файл решения](https://github.com/Advokat1/algorithms_challenge/blob/main/algorithms/Python/binary_gap.py)      |     python      |
